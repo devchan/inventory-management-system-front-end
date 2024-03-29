@@ -1,0 +1,15 @@
+{
+  "systemName": "Inventory Management System",
+  "areYouSure": "Are you sure?",
+  "createUser": "Create User",
+  "doYouWantToDeleteItem": "Do you want to delete {{item}}?",
+  "editUser": "Edit User",
+  "manageUsers": "Manage Users",
+
+  "manageCategories": "Manage Categories",
+  "createCategory" : "Create Category",
+  "editCategory": "Edit Category",
+  "manageProducts": "Manage Products",
+  "createProduct" : "Create Product",
+  "editProduct": "Edit Product"
+  }

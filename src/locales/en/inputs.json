@@ -1,0 +1,21 @@
+{ 
+  "name": "Name",
+  "description": "Description",
+  "email": "Email",
+  "home": "Home",
+  "image": "Image",
+  "notes": "Notes",
+  "password": "Password",
+  "role": "Role",
+  "search": "Search",
+  "title": "Title",
+  "username": "Username",
+
+  "quantity": "Quantity",  
+  "price": "Price",
+  "category": "Category"
+
+
+}
+
+
